@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1466838E-DAE8-4238-9549-36D1107E0776}|Processor.WebApi\\Processor.WebApi.csproj|c:\\users\\gabriel.delima\\source\\repos\\postransactionprocessor\\postransactionprocessor\\processor.webapi\\middlewares\\correlationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466838E-DAE8-4238-9549-36D1107E0776}|Processor.WebApi\\Processor.WebApi.csproj|solutionrelative:processor.webapi\\middlewares\\correlationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466838E-DAE8-4238-9549-36D1107E0776}|Processor.WebApi\\Processor.WebApi.csproj|c:\\users\\gabriel.delima\\source\\repos\\postransactionprocessor\\postransactionprocessor\\processor.webapi\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466838E-DAE8-4238-9549-36D1107E0776}|Processor.WebApi\\Processor.WebApi.csproj|solutionrelative:processor.webapi\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466838E-DAE8-4238-9549-36D1107E0776}|Processor.WebApi\\Processor.WebApi.csproj|c:\\users\\gabriel.delima\\source\\repos\\postransactionprocessor\\postransactionprocessor\\processor.webapi\\middlewares\\hmacmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466838E-DAE8-4238-9549-36D1107E0776}|Processor.WebApi\\Processor.WebApi.csproj|solutionrelative:processor.webapi\\middlewares\\hmacmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466838E-DAE8-4238-9549-36D1107E0776}|Processor.WebApi\\Processor.WebApi.csproj|c:\\users\\gabriel.delima\\source\\repos\\postransactionprocessor\\postransactionprocessor\\processor.webapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466838E-DAE8-4238-9549-36D1107E0776}|Processor.WebApi\\Processor.WebApi.csproj|solutionrelative:processor.webapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C0DC47-52D1-40FB-B0FD-E8E3D0FA1C78}|Processor.Infrastructure\\Processor.Infrastructure.csproj|c:\\users\\gabriel.delima\\source\\repos\\postransactionprocessor\\postransactionprocessor\\processor.infrastructure\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C0DC47-52D1-40FB-B0FD-E8E3D0FA1C78}|Processor.Infrastructure\\Processor.Infrastructure.csproj|solutionrelative:processor.infrastructure\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B2A4C5-D036-400C-9953-0E37DF69FAB4}|Processor.Application\\Processor.Application.csproj|c:\\users\\gabriel.delima\\source\\repos\\postransactionprocessor\\postransactionprocessor\\processor.application\\usecases\\authorizetransactionusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B2A4C5-D036-400C-9953-0E37DF69FAB4}|Processor.Application\\Processor.Application.csproj|solutionrelative:processor.application\\usecases\\authorizetransactionusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466838E-DAE8-4238-9549-36D1107E0776}|Processor.WebApi\\Processor.WebApi.csproj|c:\\users\\gabriel.delima\\source\\repos\\postransactionprocessor\\postransactionprocessor\\processor.webapi\\controllers\\processorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466838E-DAE8-4238-9549-36D1107E0776}|Processor.WebApi\\Processor.WebApi.csproj|solutionrelative:processor.webapi\\controllers\\processorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C0DC47-52D1-40FB-B0FD-E8E3D0FA1C78}|Processor.Infrastructure\\Processor.Infrastructure.csproj|c:\\users\\gabriel.delima\\source\\repos\\postransactionprocessor\\postransactionprocessor\\processor.infrastructure\\resilience\\resiliencepolicies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C0DC47-52D1-40FB-B0FD-E8E3D0FA1C78}|Processor.Infrastructure\\Processor.Infrastructure.csproj|solutionrelative:processor.infrastructure\\resilience\\resiliencepolicies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C0DC47-52D1-40FB-B0FD-E8E3D0FA1C78}|Processor.Infrastructure\\Processor.Infrastructure.csproj|c:\\users\\gabriel.delima\\source\\repos\\postransactionprocessor\\postransactionprocessor\\processor.infrastructure\\external\\externalprocessormock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C0DC47-52D1-40FB-B0FD-E8E3D0FA1C78}|Processor.Infrastructure\\Processor.Infrastructure.csproj|solutionrelative:processor.infrastructure\\external\\externalprocessormock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466838E-DAE8-4238-9549-36D1107E0776}|Processor.WebApi\\Processor.WebApi.csproj|c:\\users\\gabriel.delima\\source\\repos\\postransactionprocessor\\postransactionprocessor\\processor.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1466838E-DAE8-4238-9549-36D1107E0776}|Processor.WebApi\\Processor.WebApi.csproj|solutionrelative:processor.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1466838E-DAE8-4238-9549-36D1107E0776}|Processor.WebApi\\Processor.WebApi.csproj|c:\\users\\gabriel.delima\\source\\repos\\postransactionprocessor\\postransactionprocessor\\processor.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1466838E-DAE8-4238-9549-36D1107E0776}|Processor.WebApi\\Processor.WebApi.csproj|solutionrelative:processor.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C0DC47-52D1-40FB-B0FD-E8E3D0FA1C78}|Processor.Infrastructure\\Processor.Infrastructure.csproj|c:\\users\\gabriel.delima\\source\\repos\\postransactionprocessor\\postransactionprocessor\\processor.infrastructure\\migrations\\processordbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C0DC47-52D1-40FB-B0FD-E8E3D0FA1C78}|Processor.Infrastructure\\Processor.Infrastructure.csproj|solutionrelative:processor.infrastructure\\migrations\\processordbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C0DC47-52D1-40FB-B0FD-E8E3D0FA1C78}|Processor.Infrastructure\\Processor.Infrastructure.csproj|c:\\users\\gabriel.delima\\source\\repos\\postransactionprocessor\\postransactionprocessor\\processor.infrastructure\\migrations\\20260601004417_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C0DC47-52D1-40FB-B0FD-E8E3D0FA1C78}|Processor.Infrastructure\\Processor.Infrastructure.csproj|solutionrelative:processor.infrastructure\\migrations\\20260601004417_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Processor.WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "Processor.WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-01T00:57:27.553Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProcessorController.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.WebApi\\Controllers\\ProcessorController.cs",
+              "RelativeDocumentMoniker": "Processor.WebApi\\Controllers\\ProcessorController.cs",
+              "ToolTip": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.WebApi\\Controllers\\ProcessorController.cs",
+              "RelativeToolTip": "Processor.WebApi\\Controllers\\ProcessorController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T01:20:50.956Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExternalProcessorMock.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Infrastructure\\External\\ExternalProcessorMock.cs",
+              "RelativeDocumentMoniker": "Processor.Infrastructure\\External\\ExternalProcessorMock.cs",
+              "ToolTip": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Infrastructure\\External\\ExternalProcessorMock.cs",
+              "RelativeToolTip": "Processor.Infrastructure\\External\\ExternalProcessorMock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T01:32:37.355Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResiliencePolicies.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Infrastructure\\Resilience\\ResiliencePolicies.cs",
+              "RelativeDocumentMoniker": "Processor.Infrastructure\\Resilience\\ResiliencePolicies.cs",
+              "ToolTip": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Infrastructure\\Resilience\\ResiliencePolicies.cs",
+              "RelativeToolTip": "Processor.Infrastructure\\Resilience\\ResiliencePolicies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T20:48:37.108Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorizeTransactionUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Application\\UseCases\\AuthorizeTransactionUseCase.cs",
+              "RelativeDocumentMoniker": "Processor.Application\\UseCases\\AuthorizeTransactionUseCase.cs",
+              "ToolTip": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Application\\UseCases\\AuthorizeTransactionUseCase.cs",
+              "RelativeToolTip": "Processor.Application\\UseCases\\AuthorizeTransactionUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T21:19:00.34Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CorrelationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.WebApi\\Middlewares\\CorrelationMiddleware.cs",
+              "RelativeDocumentMoniker": "Processor.WebApi\\Middlewares\\CorrelationMiddleware.cs",
+              "ToolTip": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.WebApi\\Middlewares\\CorrelationMiddleware.cs",
+              "RelativeToolTip": "Processor.WebApi\\Middlewares\\CorrelationMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T21:34:09.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.WebApi\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Processor.WebApi\\Middlewares\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.WebApi\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeToolTip": "Processor.WebApi\\Middlewares\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T21:34:05.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HmacMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.WebApi\\Middlewares\\HmacMiddleware.cs",
+              "RelativeDocumentMoniker": "Processor.WebApi\\Middlewares\\HmacMiddleware.cs",
+              "ToolTip": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.WebApi\\Middlewares\\HmacMiddleware.cs",
+              "RelativeToolTip": "Processor.WebApi\\Middlewares\\HmacMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T21:34:04.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.WebApi\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Processor.WebApi\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.WebApi\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Processor.WebApi\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwC4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T21:33:58.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Infrastructure\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Processor.Infrastructure\\DependencyInjection\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Infrastructure\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeToolTip": "Processor.Infrastructure\\DependencyInjection\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T21:29:04.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Processor.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.WebApi\\Program.cs",
+              "RelativeToolTip": "Processor.WebApi\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T20:54:01.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProcessorDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Infrastructure\\Migrations\\ProcessorDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Processor.Infrastructure\\Migrations\\ProcessorDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Infrastructure\\Migrations\\ProcessorDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Processor.Infrastructure\\Migrations\\ProcessorDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T20:53:16.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260601004417_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Infrastructure\\Migrations\\20260601004417_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Processor.Infrastructure\\Migrations\\20260601004417_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Infrastructure\\Migrations\\20260601004417_InitialCreate.cs",
+              "RelativeToolTip": "Processor.Infrastructure\\Migrations\\20260601004417_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T20:53:05.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

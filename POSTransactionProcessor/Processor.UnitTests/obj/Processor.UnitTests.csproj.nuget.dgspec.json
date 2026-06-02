@@ -1,0 +1,376 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.UnitTests\\Processor.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Application\\Processor.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Application\\Processor.Application.csproj",
+        "projectName": "Processor.Application",
+        "projectPath": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Application\\Processor.Application.csproj",
+        "packagesPath": "C:\\Users\\gabriel.delima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gabriel.delima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Domain\\Processor.Domain.csproj": {
+                "projectPath": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Domain\\Processor.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "NUlid": {
+              "target": "Package",
+              "version": "[1.7.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Domain\\Processor.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Domain\\Processor.Domain.csproj",
+        "projectName": "Processor.Domain",
+        "projectPath": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Domain\\Processor.Domain.csproj",
+        "packagesPath": "C:\\Users\\gabriel.delima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gabriel.delima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.13.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Infrastructure\\Processor.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Infrastructure\\Processor.Infrastructure.csproj",
+        "projectName": "Processor.Infrastructure",
+        "projectPath": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Infrastructure\\Processor.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\gabriel.delima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gabriel.delima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Domain\\Processor.Domain.csproj": {
+                "projectPath": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Domain\\Processor.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.3.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "OpenTelemetry": {
+              "target": "Package",
+              "version": "[1.15.3, )"
+            },
+            "OpenTelemetry.Exporter.Console": {
+              "target": "Package",
+              "version": "[1.15.3, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.15.3, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.15.2, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.15.1, )"
+            },
+            "OpenTelemetry.Instrumentation.Runtime": {
+              "target": "Package",
+              "version": "[1.15.1, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[8.6.6, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Serilog.Sinks.Graylog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.UnitTests\\Processor.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.UnitTests\\Processor.UnitTests.csproj",
+        "projectName": "Processor.UnitTests",
+        "projectPath": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.UnitTests\\Processor.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\gabriel.delima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gabriel.delima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Application\\Processor.Application.csproj": {
+                "projectPath": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Application\\Processor.Application.csproj"
+              },
+              "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Domain\\Processor.Domain.csproj": {
+                "projectPath": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Domain\\Processor.Domain.csproj"
+              },
+              "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Infrastructure\\Processor.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\gabriel.delima\\source\\repos\\POSTransactionProcessor\\POSTransactionProcessor\\Processor.Infrastructure\\Processor.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.14.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

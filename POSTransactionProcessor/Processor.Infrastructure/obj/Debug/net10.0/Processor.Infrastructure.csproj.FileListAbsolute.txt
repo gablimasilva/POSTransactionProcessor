@@ -1,0 +1,5 @@
+C:\Users\gabriel.delima\source\repos\POSTransactionProcessor\Processor.Infrastructure\obj\Debug\net10.0\Processor.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gabriel.delima\source\repos\POSTransactionProcessor\Processor.Infrastructure\obj\Debug\net10.0\Processor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.delima\source\repos\POSTransactionProcessor\Processor.Infrastructure\obj\Debug\net10.0\Processor.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gabriel.delima\source\repos\POSTransactionProcessor\Processor.Infrastructure\obj\Debug\net10.0\Processor.Infrastructure.AssemblyInfo.cs
+C:\Users\gabriel.delima\source\repos\POSTransactionProcessor\Processor.Infrastructure\obj\Debug\net10.0\Processor.Infrastructure.csproj.CoreCompileInputs.cache
