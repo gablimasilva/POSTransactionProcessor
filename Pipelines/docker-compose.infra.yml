@@ -59,7 +59,7 @@ services:
       - opensearch
     environment:
       GRAYLOG_PASSWORD_SECRET: some-random-secret
-      GRAYLOG_ROOT_PASSWORD_SHA2: 937028455101d9001a3743459c297b7919c0028f35c7f73a3fba79668b37c3d0
+      GRAYLOG_ROOT_PASSWORD_SHA2: 7aaa1931f01d5c5acf6cd33ec51c50108adede9e69b4732c943d54b8fd48b5fc
       GRAYLOG_HTTP_BIND_ADDRESS: 0.0.0.0:9000
       GRAYLOG_MONGODB_URI: mongodb://graylog-mongo:27017/graylog
       GRAYLOG_ELASTICSEARCH_HOSTS: http://graylog-opensearch:9200
